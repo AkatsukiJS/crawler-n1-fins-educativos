@@ -1,3 +1,9 @@
+### Install dependecies
+```shell
+npm install
+```
+
+
 ### USAGE
 
 ```shell
